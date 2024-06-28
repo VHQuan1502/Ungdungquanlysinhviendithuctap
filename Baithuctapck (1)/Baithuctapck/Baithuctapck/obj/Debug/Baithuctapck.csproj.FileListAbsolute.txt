@@ -1,0 +1,382 @@
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe.config
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.pdb
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.AssemblyReference.cache
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Form1.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Properties.Resources.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.GenerateResource.cache
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CoreCompileInputs.cache
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.exe
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.pdb
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Home.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.login.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldoanhnghiep.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlgiangvien.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlsinhvien.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldetai.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietsinhvien.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietdoanhnghiep.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietgiangvien.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlquatrinh.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongke.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongbao.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietthongbao.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CopyComplete
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoan.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoancanhan.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedetai.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkesinhvien.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGia.resources
+C:\Users\NO NAME\source\repos\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGiaCT.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe.config
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.pdb
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGia.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGiaCT.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Form1.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Home.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.login.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Properties.Resources.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldetai.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldoanhnghiep.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlgiangvien.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlquatrinh.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlsinhvien.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoan.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoancanhan.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongbao.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongke.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedetai.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkesinhvien.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietdoanhnghiep.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietgiangvien.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietsinhvien.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietthongbao.resources
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CopyComplete
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.exe
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.pdb
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.Licensing.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.dll
+C:\Users\acer\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe.config
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.pdb
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.Licensing.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.AssemblyReference.cache
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGia.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGiaCT.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Form1.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Home.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.login.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Properties.Resources.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldetai.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldoanhnghiep.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlgiangvien.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlquatrinh.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlsinhvien.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoan.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoancanhan.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongbao.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongke.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedetai.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkesinhvien.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietdoanhnghiep.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietgiangvien.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietsinhvien.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietthongbao.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.GenerateResource.cache
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CoreCompileInputs.cache
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CopyComplete
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.exe
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.pdb
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Xacnhandoanhnghiep.resources
+C:\Users\NO NAME\Downloads\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedoanhnghiep.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe.config
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.exe
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Baithuctapck.pdb
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\EPPlus.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGia.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.DanhGiaCT.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Form1.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Home.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.login.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Properties.Resources.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldetai.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qldoanhnghiep.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlgiangvien.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlquatrinh.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.qlsinhvien.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoan.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Taikhoancanhan.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongbao.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongke.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedetai.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkedoanhnghiep.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Thongkesinhvien.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietdoanhnghiep.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietgiangvien.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietsinhvien.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.thongtinchitietthongbao.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.Xacnhandoanhnghiep.resources
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuct.0F78D465.Up2Date
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.exe
+C:\Users\Admin\Documents\Code_C#\Nhóm 6 _ Vũ Hồng Quân _ Dương Danh Thai _ Bùi Gia Khiêm-version3\Nhóm 6 _ Vũ Hồng Quân\Baithuctapck (1)\Baithuctapck\Baithuctapck\obj\Debug\Baithuctapck.pdb
